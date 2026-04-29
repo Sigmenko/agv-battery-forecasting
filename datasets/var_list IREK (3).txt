@@ -1,0 +1,17 @@
+FH.6000.[TS] TIME STAMP.Time stamp
+FH.6000.[NNS] - Natural Navigation Signals.Heading
+FH.6000.[NNS] - Natural Navigation Signals.X-coordinate
+FH.6000.[NNS] - Natural Navigation Signals.Y-coordinate
+FH.6000.[NNS] - Natural Navigation Signals.Speed
+FH.6000.[ENS] - Energy Signals.Momentary power consumption
+FH.6000.[ENS] - Energy Signals.Momentary current consuption
+FH.6000.[ENS] - Energy Signals.Battery cell voltage
+FH.6000.[ENS] - Energy Signals.Battery value
+FH.7000.[mikrotik].load_long
+FH.7000.[mikrotik].load_mid
+FH.7000.[mikrotik].load_short
+FH.7000.[mikrotik].ping
+FH.7000.[mikrotik].signal_noise
+FH.7000.[mikrotik].signal_power
+FH.7000.[mikrotik].signal_quality
+FH.7000.[mikrotik].uptime
